@@ -42,6 +42,6 @@ An interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript*
 - Best of 5 Mode
 - Restart Button
 ## Preview
+<img width="1023" height="682" alt="backgroundimg png" src="https://github.com/user-attachments/assets/d3a928a5-eb12-41a4-bd30-f82835c44d34" />
 
-![Game](<img width="1023" height="682" alt="backgroundimg png" src="https://github.com/user-attachments/assets/f19f7c49-8fee-4b52-a406-743ca1352387" />
-)
+
